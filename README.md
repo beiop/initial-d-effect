@@ -6,7 +6,7 @@ I dunno how to use MD, uhh
 
 huh, like discord...
 
-####I wonder what the hashtags do
+#### I wonder what the hashtags do
 
 I just trying to figure out GitHub, so don't expect much from this
 
