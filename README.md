@@ -10,8 +10,8 @@ huh, like discord...
 
 I just trying to figure out GitHub, so don't expect much from this
 
-###### **To Do**
-# [ ] Make it run on a pi
-# [ ] Make it run on all pies
-# [ ] Make it run on a mac
-# [ ] Make it run on all macs
+## **To Do**
+#### [ ] Make it run on a pi
+#### [ ] Make it run on all pies
+#### [ ] Make it run on a mac
+#### [ ] Make it run on all macs
