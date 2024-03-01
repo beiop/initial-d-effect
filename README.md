@@ -1,7 +1,11 @@
 # initial-d-effect
 Video effect that leaves a motion blur on only bright objects (light trails)
 
-I dunno how to use MD, uhh
+![y is it backwards bruv?](https://github.com/beiop/initial-d-effect/blob/main/ezgif-4-0e1d171054.gif)
+
+ooh, I inserted an image!
+
+I still dunno how to use MD, uhh
 **bolded text??**
 
 huh, like discord...
